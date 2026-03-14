@@ -1,0 +1,31 @@
+car_id,make,model,year,color,plate_number,daily_rate,vehicle_type,status
+1,Toyota,Vios,2020,White,AAA-1234,800.00,car,available
+2,Toyota,Vios,2021,Silver,BBB-2345,850.00,car,available
+3,Toyota,Innova,2019,Gray,CCC-3456,1200.00,car,rented
+4,Toyota,Innova,2021,Black,DDD-4567,1300.00,car,available
+5,Mitsubishi,Mirage,2020,Red,EEE-5678,750.00,car,available
+6,Mitsubishi,Mirage G4,2021,White,FFF-6789,800.00,car,rented
+7,Honda,Brio,2020,Blue,GGG-7890,750.00,car,available
+8,Honda,City,2021,Silver,HHH-8901,900.00,car,maintenance
+9,Suzuki,Ertiga,2020,White,III-9012,1100.00,car,available
+10,Suzuki,Ertiga,2022,Gray,JJJ-0123,1150.00,car,rented
+11,Ford,Ecosport,2020,Orange,KKK-1235,950.00,car,available
+12,Hyundai,Reina,2021,White,LLL-2346,780.00,car,available
+13,Kia,Soluto,2021,Silver,MMM-3457,780.00,car,available
+14,Toyota,Wigo,2022,Red,NNN-4568,700.00,car,available
+15,Nissan,Almera,2020,White,OOO-5679,820.00,car,rented
+16,Yamaha,Aerox 155,2021,Matte Black,PPP-6780,350.00,motorcycle,available
+17,Yamaha,Aerox 155,2022,Blue,QQQ-7891,370.00,motorcycle,available
+18,Yamaha,NMAX 155,2021,Gray,RRR-8902,380.00,motorcycle,rented
+19,Yamaha,NMAX 155,2022,White,SSS-9013,400.00,motorcycle,available
+20,Yamaha,Mio Aerox,2020,Red,TTT-0124,320.00,motorcycle,available
+21,Honda,PCX 160,2022,Black,UUU-1236,400.00,motorcycle,available
+22,Honda,PCX 160,2021,White,VVV-2347,380.00,motorcycle,rented
+23,Honda,Click 125i,2021,Blue,WWW-3458,280.00,motorcycle,available
+24,Honda,Click 125i,2022,Red,XXX-4569,300.00,motorcycle,available
+25,Honda,BeAT,2020,Pink,YYY-5670,260.00,motorcycle,maintenance
+26,Suzuki,Skydrive 125,2021,Black,ZZZ-6781,270.00,motorcycle,available
+27,Suzuki,Raider R150,2021,Red,AAB-7892,320.00,motorcycle,rented
+28,Yamaha,Mio i 125,2020,Purple,BBB-8903,260.00,motorcycle,available
+29,Honda,ADV 160,2022,Gray,CCC-9014,420.00,motorcycle,available
+30,Kawasaki,Barako II,2020,Black,DDD-0125,300.00,motorcycle,available
